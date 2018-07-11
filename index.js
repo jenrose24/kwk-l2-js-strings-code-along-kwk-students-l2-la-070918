@@ -5,7 +5,7 @@ const welcomeMessage=`Welcome to Klossybook, ${currentUser}!`;
 
 const excitedWelcomeMessage= welcomeMessage.toUpperCase();
 
-const shortGreeting = currentUser    ;
+const shortGreeting =`Welcome ${currentUser} `;
 shortGreeting ;
 
 
